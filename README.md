@@ -1,2 +1,2 @@
-# Header of the file.
+# Heading of the file.
 Some text here.
